@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="service-discovery:main" external.linked.project.path="$MODULE_DIR$/../../service-discovery" external.root.project.path="$MODULE_DIR$/../../service-discovery" external.system.id="GRADLE" external.system.module.group="digitalinnovation.one.experts.servicediscovery" external.system.module.type="sourceSet" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/../../service-discovery/build/classes/java/main" />
+    <output url="file://$MODULE_DIR$/../../service-listener/build/classes/java/main" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../service-discovery/src/main">
-      <sourceFolder url="file://$MODULE_DIR$/../../service-discovery/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../service-discovery/src/main/resources" type="java-resource" />
+    <content url="file://$MODULE_DIR$/../../service-listener/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../service-listener/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../service-listener/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
